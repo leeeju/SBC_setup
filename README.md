@@ -2,7 +2,6 @@
 
 ### SBC(Raspberry Pi) 시리얼 콘솔
 
-제공 : GroundZero
 
 환경 구성 : Ubuntu20.04, R.O.S2 foxy
 ---
